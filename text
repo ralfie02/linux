@@ -1,0 +1,5 @@
+Leiðbeiningar
+
+þegar þú eert að skrá þig inn, notaðu lykilorðið „pass.123“.
+Ef þú villt bæta við nýjar notendur þá skal þú nota skipunin „useradd –G „hóp þar sum þú villt setja hann/hana inn“ –c „notanda nafn“ –m „nafn einstaklings“. Ef þú villt eyða notanda, notaðu skipunina „userdel „nafn einstaklings“.Þegar þau Erlendur og Erla hafa störf og þarf að komast inn í kerfina þá skrifaðu „passwd –u „nafn“.
+Síðast en ekki síst ef þú villt vera superuser þá skal þú skrifa „sudo –i“ í terminal.
